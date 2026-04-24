@@ -1,2 +1,18 @@
-# os-disk-io-scheduling-simulator
-Simulation of Disk I/O Scheduling algorithms (FCFS, SSTF, SCAN, C-SCAN) with performance analysis and test cases.
+# Disk I/O Scheduling Simulator
+
+This project simulates disk scheduling algorithms used in operating systems.
+
+## Algorithms Implemented
+- FCFS
+- SSTF
+- SCAN
+- C-SCAN
+
+## Features
+- Dynamic input handling
+- Seek sequence visualization
+- Performance comparison
+- Multiple test runs
+
+## Author
+Lakshya Rajpal
